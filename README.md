@@ -31,3 +31,13 @@ so we have the below stuff
 1. Header
 2. Payload
 3. Signiture
+
+Read more here abput the claims (we have 7 std claims)
+https://en.wikipedia.org/wiki/JSON_Web_Token#Standard_fields
+
+### Main claims
+
+iss 	--> Issuer -->	Identifies principal that issued the JWT. 
+sub 	--> Subject -->	Identifies the subject of the JWT. 
+aud 	--> Audience --> Identifies the recipients that the JWT is intended for. Each principal intended to process the JWT must identify itself with a value in the audience claim. 
+                       If the principal processing the claim does not identify itself with a value in the aud claim when this claim is present, then the JWT must be rejected.  
