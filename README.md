@@ -23,7 +23,7 @@ Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImdhbmFhIiwic3Vi
 
 ```
 
-the structure of the jwt
+The structure of the jwt
 ![Screenshot from 2025-05-30 22-08-00](https://github.com/user-attachments/assets/c165864a-2b71-4888-931f-85cdaf003a04)
 
 so we have the below stuff
