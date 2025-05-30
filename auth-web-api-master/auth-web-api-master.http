@@ -1,0 +1,6 @@
+@auth_web_api_master_HostAddress = http://localhost:5027
+
+GET {{auth_web_api_master_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
