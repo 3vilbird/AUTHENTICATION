@@ -54,18 +54,17 @@ the evaluator will check itseft is it present in the aud list or not if not it w
 
 
 exmaple
+![Screenshot from 2025-05-31 11-38-04](https://github.com/user-attachments/assets/d91ad9b2-8546-4fb2-9296-c66edd7f6d93)
 
+here my aud is the local host on which the sysytem is running.
 
+and let me generate the token which has no above mentioned aud
+![Screenshot from 2025-05-31 11-37-21](https://github.com/user-attachments/assets/2daf4f07-c77a-4af5-95d5-c2c8c983c1e3)
+![Screenshot from 2025-05-31 11-37-40](https://github.com/user-attachments/assets/1861abb4-a15a-40be-850c-e20d9e46a9a7)
 
+and if i use that i will get the below error.
 
-
-
-
-
-
-
-
-
+![Screenshot from 2025-05-31 11-38-17](https://github.com/user-attachments/assets/9fa8169c-9fa3-4dc5-9475-be8e6e268d6f)
 
 
 
