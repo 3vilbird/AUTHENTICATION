@@ -45,3 +45,28 @@ sub 	--> Subject -->	Identifies the subject of the JWT.
 <br/>
 aud 	--> Audience --> Identifies the recipients that the JWT is intended for. Each principal intended to process the JWT must identify itself with a value in the audience claim. 
                        If the principal processing the claim does not identify itself with a value in the aud claim when this claim is present, then the JWT must be rejected.  
+
+
+
+## Audence
+
+the evaluator will check itseft is it present in the aud list or not if not it will say that unautorized.
+
+
+exmaple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
