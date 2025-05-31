@@ -4,6 +4,9 @@ https://learn.microsoft.com/en-us/aspnet/core/security/authentication/configure-
 https://en.wikipedia.org/wiki/JSON_Web_Token
 
 
+JWT with dotnet cli :- https://learn.microsoft.com/en-us/aspnet/core/security/authentication/jwt-authn?view=aspnetcore-9.0&tabs=linux
+
+
 JWT BASED authentication
 
 create JWT with cli 
